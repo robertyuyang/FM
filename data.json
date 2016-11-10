@@ -1,0 +1,42 @@
+{"albums":
+    [
+     {  "id":"k2001","title":"鬼吹灯","intro":"鬼吹灯的简介，简介简介",
+        "imgUrl": "http://p19.qhimg.com/t01dea7d13777792029.jpg",
+        "tags":["有声小说","悬疑","畅销"],
+        "tracks":
+        [
+      {"title":"第一话 序言", "author":"tom", "duration": 3000,
+         "url": "http://yuedu.fm/static/file/pod/eaf5d1fe80148797cb493d2e9c6e55c2.mp3",
+         "imgUrl": "http://imgsrc.baidu.com/forum/pic/item/a0d54d600c33874447ec398c510fd9f9d62aa002.jpg"},
+      {"title":"第二话 开始", "author":"tom", "duration": 4000,
+         "url": "http://111",
+         "imgUrl": "http://dddd.jpg"},
+      {"title":"第三话 继续", "author":"tom", "duration": 5000,
+         "url": "http://111",
+         "imgUrl": "http://dddd.jpg"},
+      {"title":"第四话 杀人啦", "author":"tom", "duration": 3300, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+      {"title":"第五话 结束啦", "author":"tom", "duration": 3600, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+     ]
+     },
+     {"id":"dj71","title":"诗歌选","intro":"文学作品",
+     "imgUrl":"http://s6.sinaimg.cn/middle/4e095e43g83961a80b715&690",
+        "tags":["有声小说","诗歌","文学"],
+        "tracks":
+     [
+      {"title":"目送", "author":"kitty", "duration": 3000,
+      "url": "http://yuedu.fm/static/file/pod/c4f45058a30fb0657428c86810233051.mp3",
+      "imgUrl": "http://dddd.jpg"},
+      {"title":"故乡的元宵", "author":"tom", "duration": 4000, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+      {"title":"生命，是一树花开", "author":"jack", "duration": 5000, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+      {"title":"面向大海，春暖花开", "author":"black", "duration": 3300, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+      {"title":"漂亮的失败是另一种成功", "author":"robert", "duration": 3600, "url": "http://111", "imgUrl": "http://dddd.jpg"},
+     ]
+     }
+    ],
+     
+    "authors":
+    [
+     {"name":"tom","nickName":"汤姆斯陈", "intro":"一个好人", "imgUrl":"http://", "albums":["k2001","dj71"]},
+     {"name":"jack","nickName":"老杰克", "intro":"开膛手", "imgUrl":"http://", "albums":["dj71"]}
+    ]
+}
